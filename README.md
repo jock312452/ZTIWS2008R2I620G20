@@ -6,3 +6,4 @@ This Project based on Windows Server 2012 R2 (Role of WDS) with MDT used for ZTI
 
 This deployment server is VM which used vmdk and all of drivers including graphics cards \ NIC \RAID cards \HBA cards etc. were integrated into the system, so you only need to configure your vmware workstation NIC (bridge mode) and startup the VM for the deployment.
 
+链接：https://pan.baidu.com/s/1b5qd90 密码：bgxg
